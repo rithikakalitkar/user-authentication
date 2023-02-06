@@ -1,0 +1,19 @@
+body {
+  height: 100%;
+  margin: 0;
+  /* font-family: "Audiowide", sans-serif; */
+  font-family: "Times New Roman", Times, serif;
+
+}
+
+@font-face {
+  font-family: 'Crazy Gradient';
+  font-style: normal;
+  /* font-weight: 400; */
+  src: local('Crazy Gradient'), url('https://fonts.cdnfonts.com/s/59591/CrazyGradient.woff') format('woff');
+}
+
+.title-div{
+  font-family: 'Crazy Gradient', sans-serif;
+  /* word-spacing: 100vw; */
+}
